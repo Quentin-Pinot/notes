@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "3a3b1b0edd8cb6cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a7f7f85a382ebee",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "63270efa82aadac8",
+    "type": "split",
+    "children": [
+      {
+        "id": "62175c571d33f0c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21a02d8b8429f987",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f3de73a60ad8786f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f266094fdb99de63",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e56859fc2f47d96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e11c05c54ef72807",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "7a7f7f85a382ebee",
+  "lastOpenFiles": [
+    "IA/MACHINE LEARNING.md",
+    "IA/Classification.md",
+    "IA/IA.md",
+    "IA/Regression.md",
+    "IA/Reinforcement Learning.md",
+    "IA/Supervised Learning.md",
+    "IA/Unsupervised Learning.md",
+    "IA/Tom Mitchell.md",
+    "OPERATING SYSTEM/LINUX.md",
+    "Untitled.md"
+  ]
+}
